@@ -150,6 +150,5 @@ MAP(make a plan)은 이름에서도 알 수 있듯이 내가 세운 계획을 �
 
 ### 💻 팀 프로젝트 저장소 
 * [백엔드](https://github.com/dev-kmj/final_project_MAP_back.git)
-* [프론트엔드](https://github.com/alaliyo/final_project_MAP_front)
 </br>
 
